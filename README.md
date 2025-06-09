@@ -258,5 +258,18 @@ Email: vadthyavathanil.ai@gmail.com
 
 Feel free to reach out for collaborations, questions, or feedback!
 
+![GitHub Repo stars](https://img.shields.io/github/stars/AnilVadthyavath/EngageAI-Classroom?style=social)  
+![GitHub forks](https://img.shields.io/github/forks/AnilVadthyavath/EngageAI-Classroom?style=social)  
+![GitHub contributors](https://img.shields.io/github/contributors/AnilVadthyavath/EngageAI-Classroom)  
+![GitHub last commit](https://img.shields.io/github/last-commit/AnilVadthyavath/EngageAI-Classroom)  
+![GitHub issues](https://img.shields.io/github/issues/AnilVadthyavath/EngageAI-Classroom)  
+![GitHub license](https://img.shields.io/github/license/AnilVadthyavath/EngageAI-Classroom)  
 
+## Built With
+
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv&logoColor=white)
+- ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+- ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=flat&logo=google&logoColor=white)
+- 
 
