@@ -271,5 +271,4 @@ Feel free to reach out for collaborations, questions, or feedback!
 - ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv&logoColor=white)
 - ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 - ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=flat&logo=google&logoColor=white)
-- 
 
