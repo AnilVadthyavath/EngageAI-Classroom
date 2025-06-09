@@ -91,9 +91,32 @@ flowchart LR
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/AnilVadthyavath/EngageAI-Classroom.git
+git clone https://github.com/your-username/EngageAI-Classroom.git
 cd EngageAI-Classroom
 ```
+
+2. **(Optional) Create and activate a virtual environment**
+
+```bash
+python -m venv venv
+# Activate on Windows
+venv\Scripts\activate
+# Activate on macOS/Linux
+source venv/bin/activate
+```
+
+3. **Install dependencies**
+
+```bash
+pip install -r requirements.txt
+```
+
+4. **Run the application**
+
+```bash
+python main.py
+```
+
 ---
 
 ## Usage
@@ -215,7 +238,7 @@ git push origin feature/your-feature-name
 
 ## License
 
-This project is licensed under the MIT License.  
+```This project is licensed under the MIT License.  
 See the [LICENSE](LICENSE) file for details.
 
 ---
@@ -224,7 +247,7 @@ See the [LICENSE](LICENSE) file for details.
 
 - The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.  
 - THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
-
+```
 ---
 
 ## Contact
